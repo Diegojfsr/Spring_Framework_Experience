@@ -13,12 +13,10 @@ Programa gratuito repleto de cursos, desafio de código e desafios de projeto na
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Módulo I - Fundamentos. <a href="https://www.notion.so/diegojfsr/M-dulo-I-Fundamentos-8c00b2a57e504f44bf351a41e64c8efb"> Acessar </a></li>
-<li> Módulo II - Setup. <a href="https://www.notion.so/diegojfsr/M-dulo-II-Setup-34d68c03dd724fcc8cfe667bb7c5195a"> Acessar </a></li>
-<li> Módulo III - Java Fundamental. <a href="https://www.notion.so/diegojfsr/M-dulo-III-Java-Fundamental-91a634281c9c433bb55ccf10acaf07fd"> Acessar </a></li>
-<li> Módulo IV - Java Essencial. <a href="https://www.notion.so/diegojfsr/M-dulo-IV-Java-Essencial-fabdfa2e61504a56b9823a8a91001c99"> Acessar </a></li>
-<li> Módulo V - Arquitetura de Sistemas. <a href="https://www.notion.so/diegojfsr/M-dulo-V-Arquitetura-de-Sistemas-c49b6ff9404144cb84f929d4028c391c"> Acessar </a></li>
-<li> Módulo VI - Java Avançado. <a href="https://www.notion.so/diegojfsr/M-dulo-VI-Java-Avan-ado-3aade1f9863f43ce921247b0b7bc0ac1"> Acessar </a></li>
+<li> Módulo 0 - Prepare-se Para a Jornada. <a href="https://"> Acessar </a></li>
+<li> Módulo I - Programação Orientada a Objetos com Java. <a href="https://"> Acessar </a></li>
+<li> Módulo II - Principais Projetos Spring Framework. <a href="https://"> Acessar </a></li>
+
 </ul>
 
 
